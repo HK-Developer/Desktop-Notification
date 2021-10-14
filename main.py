@@ -11,4 +11,5 @@ if __name__ == "__main__":
         )
         # if you don't run it with window sheduler so you canrun it with pythonw
         # and if you are running it on window shedular you can remove while loop and time.sleep ok
-        time.sleep(60*60)
+        time.sleep(900)
+        # for give min it be better to use 
